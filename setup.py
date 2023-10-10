@@ -21,6 +21,4 @@ author='Tushar Thokdar',
 author_email='tusharthokdarp@gmail.com',
 packages=find_packages(),
 install_requrements=get_requrements("requrements.txt")
-  
-    
 )
